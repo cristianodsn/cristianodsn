@@ -17,14 +17,6 @@
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/0c34d1286f5f06c16bd35e80b43fc6b8/tumblr_nr6hegKCns1qd4q8ao1_500.gifv">
   
   ##
- 
-<div> 
- 
 
-  <a href = "mailto:cristiano_castiel@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristiano-jos%C3%A9-do-nascimento-603b45218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ![Snake animation](https://github.com/cristianodsn/cristianodsn/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
